@@ -1,0 +1,68 @@
+/*img.mat-card-image {
+    min-height: 374px;
+    max-height: 374px;
+} */
+
+.div-tabela{
+  width: 85%;
+  padding-left: 8%;
+  padding-top: 2%;
+}
+
+img.mat-card-image {
+  top: 298px;
+  left: 137px;
+  width: 60px;
+  height: 60px;
+  border-radius: 4px;
+  opacity: 1;
+}
+
+.mat-mdc-table {
+  width: 100%;
+  max-height: 500px;
+  overflow: auto;
+  color: black;
+}
+
+.mat-column-name {
+  height: 100px;
+  color: black;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+  color: black;
+}
+
+td, th {
+  width: 25%;
+    color: black;
+}
+
+.span-desenvolvido{
+  float: right;
+  color: white;
+}
+
+.divPrincipal{
+  padding-top: 1%;
+  min-width: 100%;
+}
+
+.divEsquerda{
+  min-width: 20%;
+  float: left;
+}
+
+.divDireita{
+  min-width: 70%;
+  float: left;
+  padding-left: 3%;
+  padding-top: 5%;
+}

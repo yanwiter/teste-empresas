@@ -1,0 +1,51 @@
+.sidenav-container {
+    height: 100%;
+    background-color: #E5E5E5;
+}
+
+.sidenav {
+    width: 100%;
+    background-color: #E5E5E5;
+}
+
+.toolbar{
+  background-color: #042940;
+}
+
+.mat-toolbar.mat-primary {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+
+.brand-logo {
+  display: block;
+  padding: 10px 15px;
+}
+.brand-logo-collapsed {
+  display: none;
+  padding: 6px 15px;
+}
+
+.grid-col {
+  padding-top: 5%;
+  padding-right: 5px !important;
+  padding-left: 5px !important;
+}
+
+.col{
+  padding-top: 50%;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+
+}
+
+.img-nav{
+  height: 40px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
